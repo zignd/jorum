@@ -1,4 +1,4 @@
-# jorum
+# jorum [![GoDoc](https://godoc.org/github.com/zignd/jorum?status.svg)](https://godoc.org/github.com/zignd/jorum) [![Report card](https://goreportcard.com/badge/github.com/zignd/jorum)](https://goreportcard.com/report/github.com/zignd/jorum)     
 
 A large drinking vessel into which you can group services. But here's the original definition of [jorum](https://en.wiktionary.org/wiki/jorum).
 
